@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="bin\Admin_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cafe_Manage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cafe_ManageList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CancelOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\BillingForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\Help_Sup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\ManageUser_Cafe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\Manangements_main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\report_Order.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\ViewOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Cafe_ManageSystemDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

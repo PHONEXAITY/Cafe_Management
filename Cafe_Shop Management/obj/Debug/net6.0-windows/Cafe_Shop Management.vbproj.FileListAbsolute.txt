@@ -1,0 +1,42 @@
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.Login.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.Resources.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop Management.vbproj.GenerateResource.cache
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop Management.AssemblyInfoInputs.cache
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop Management.AssemblyInfo.vb
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop Management.vbproj.CoreCompileInputs.cache
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\Cafe_Shop Management.exe
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\Cafe_Shop Management.deps.json
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\Cafe_Shop Management.runtimeconfig.json
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\Cafe_Shop Management.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\Cafe_Shop Management.pdb
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop Management.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\refint\Cafe_Shop Management.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop Management.pdb
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop Management.genruntimeconfig.cache
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\ref\Cafe_Shop Management.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop Management.vbproj.AssemblyReference.cache
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop Management.vbproj.CopyComplete
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.SignIn.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\Cafe_Shop Management.dll.config
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.SignUp.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.Cafe_Manage.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.Cafe_ManageList.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.CancelOrder.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.Manangements_main.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.dashboard.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.ViewOrder.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.BillingForm.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.report_Order.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.ManageUser_Cafe.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.Admin_Login.resources
+C:\Users\PHONE\source\repos\Cafe_Shop Management\Cafe_Shop Management\obj\Debug\net6.0-windows\Cafe_Shop_Management.Help_Sup.resources
